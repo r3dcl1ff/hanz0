@@ -28,6 +28,7 @@ Basic Usage
 Flags / Options
 
     -threads (default 5): Number of concurrent HTTP requests.
+    -severity: High,Medium or Low with the -s flag
     -timeout (default 5): HTTP request timeout in seconds.
     -verbose: Prints additional messages, including which URL is currently being scanned.
     -json <filename>: Writes all findings to a JSON file.
